@@ -1,4 +1,5 @@
-# mms
+# MMS
+### Marks Management System
 
 MMS - Marks  Management System - A new Flutter project which contains DefaultTabController with TabBar and TabBarView and which is made for students marks management.
 
